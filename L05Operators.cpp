@@ -11,6 +11,6 @@ int main()
     //Checking if two number are equal 
     int a,b;
     cin>>a>>b;
-    bool c = (a==b);
+    bool c = (a==b);;
     cout<<c; 
 }
