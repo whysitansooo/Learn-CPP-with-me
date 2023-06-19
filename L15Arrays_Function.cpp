@@ -1,17 +1,17 @@
-// #include <iostream>
-// using namespace std;
+#include <iostream>
+using namespace std;
 
-// void print(int array[]){
-//     for(int i=0;i<5;i++){
-//         cout<<array[i]<<endl;;
-//     }
-// }
+void print(int array[]){
+    for(int i=0;i<5;i++){
+        cout<<array[i]<<endl;;
+    }
+}
 
-// int main()
-// {
-//     int arr[5] = {1,2,3,4,5};
-//     print(arr);
-// }
+int main()
+{
+    int arr[5] = {1,2,3,4,5};
+    print(arr);
+}
 
 //? Reversing Array
 
